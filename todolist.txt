@@ -5,3 +5,5 @@ tomcat
 jenkins
 aws
 networking concepts
+EC2
+VPC
