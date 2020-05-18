@@ -1,9 +1,13 @@
-tasks
-git 
-github
-tomcat
-jenkins
-aws
-networking concepts
+Tasks Important urgent
+Git 
+Github
+Tomcat
+Jenkins
+AWS
+Networking concepts
 EC2
 VPC
+
+Important not-urgent
+Android Studio
+Kotlin
